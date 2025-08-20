@@ -71,6 +71,8 @@ Users can add, search, and delete events. All events are automatically saved to 
 
 ![Event Manager Preview](./public/preview.png)
 
+Try it live: https://event-management-navy-eta.vercel.app/
+
 ---
 
 This is a minimal demo app built for learning purposes. You can extend it with features like:
