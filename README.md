@@ -70,7 +70,7 @@ Users can add, search, and delete events. All events are automatically saved to 
 ## 📸 Preview
 *Event Manager Interface showing the add form, search, and event list*
 
-![Event Manager Preview](./preview.png)
+![Event Manager Preview](./public/preview.png)
 
 ---
 
