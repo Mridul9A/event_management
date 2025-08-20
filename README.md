@@ -13,7 +13,6 @@ Users can add, search, and delete events. All events are automatically saved to 
 
 2. **Start the development server:**
    ```bash
-   cd apps/web
    pnpm dev
    ```
 
