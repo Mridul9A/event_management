@@ -24,7 +24,6 @@ Users can add, search, and delete events. All events are automatically saved to 
 ---
 
 ## 📍 Page Path
-- **Route**: `/events`
 - **Full URL**: `http://localhost:3000`
 - **File Location**: `apps/page.tsx`
 
